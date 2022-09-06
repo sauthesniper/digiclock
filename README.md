@@ -1,6 +1,6 @@
 #DIGICLOCK
 
-``project description``
+``PROJECT DESCRIPTION``
 
 DIGICLOCK is a a clock that I have built in the summer of 2022.
 The clock has 6 displays (7-segment LED displays) on a modular platform.
